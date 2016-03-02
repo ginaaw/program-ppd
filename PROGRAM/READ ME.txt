@@ -1,0 +1,5 @@
+How to use Apps :
+1. Copy folder Projects ke C:
+2. Apps siap untuk digunakan.
+3. Double klik apps atau Right klik dan pilih open
+4. Password : admin
